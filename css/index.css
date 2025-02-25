@@ -1,0 +1,66 @@
+body {
+    background-image: url(../Img/fundo-neon-com-telas-de-quadro-led-azul-abstrato-fluorescente-cor-púrpura-animação-em-loop-k-do-espectro-luzes-ultravioleta-166340760.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  h1 {
+    color: white;
+    font-size: 50px;
+    background-color: cadetblue;
+    border: 3px solid gray;
+    border-radius: 15px;
+  }
+
+  h2 {
+    color: white;
+    font-size: 25px;
+    background-color: cadetblue;
+    margin: 300px;
+    margin-bottom: 50px;
+    margin-top: 2px;
+    border: 3px solid gray;
+    border-radius: 15px;
+  }
+
+  p {
+    color: white;
+    font-size: 25px;
+    background-color: cadetblue;
+    margin: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .btn-link {
+    transition: 1s;
+    text-decoration: none;
+    border: solid 1px blue;
+    width: 160px;
+    text-align: center;
+    padding: 20px;
+    padding-left: 10px;
+    background-color: rgb(31, 134, 100);
+    border-radius: 6px;
+  }
+
+  .btn-link:hover {
+    background-color: aquamarine;
+  }
+
+  h3 {
+    color: white;
+  }
+
+  ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 5px;
+    padding: 20px;
+  }
